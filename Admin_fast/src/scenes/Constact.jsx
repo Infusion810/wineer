@@ -143,7 +143,7 @@ function Contact() {
     <Box m="0.5rem 1rem">
       {/* Header and Search Bar in Same Row */}
       <Box display="flex" justifyContent="space-between" alignItems="center" mb={2}>
-        <Header title="All Users" subtitle="List of All users in REDDYANNA" />
+        <Header title="All Users" subtitle="List of All users in Winnerone.xyz" />
         <Box display="flex" backgroundColor={colors.primary[400]} borderRadius="3px" width="30%">
           <InputBase
             type="text"
