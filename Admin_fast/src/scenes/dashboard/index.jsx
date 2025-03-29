@@ -17,7 +17,7 @@ function Dashboard() {
   return (
     <Box margin="0.5rem 1rem">
       <Box display="flex" justifyContent="space-between" alignItems="center">
-        <Header title="REDDYANNA" subtitle="Welcome to REDDYANNA" />
+        <Header title="Winnerone.xyz" subtitle="Welcome to Winnerone.xyz" />
         <Box>
           <Button
             sx={{
