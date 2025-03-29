@@ -46,7 +46,7 @@ const io = socketIo(server, {
 
 // app.use(
 //   cors({
-//     origin: ["https://dynexbet-front.vercel.app", "https://dynexbet-admin.vercel.app"], // Replace '*' with the specific origin(s) you want to allow, e.g., 'https://yourdomain.com'
+//     origin: ["https://winnerone.xyz", "https://admin.winnerone.xyz"], // Replace '*' with the specific origin(s) you want to allow, e.g., 'https://yourdomain.com'
 //     methods: ['POST', 'GET', 'PUT', 'DELETE'], // Define allowed HTTP methods
 //     credentials: true, // Allow credentials like cookies to be sent
 //   })
